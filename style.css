@@ -1,0 +1,42 @@
+h1 {
+text-align :center;
+	color :purple;
+	font-family :papyrus;
+}
+
+
+body {
+Background-color:pink;
+background-image: url 
+}
+
+
+
+#searchbar {
+  border-radius: 50px;
+  padding: 10px;
+  font-size: 17px;
+  border: 2px solid grey;
+  float: right;
+  width: 12%;
+  background: #EA95EE;
+}
+#barbapapaletters { 
+	border-radius: 20px;
+	border: 6px solid #E474FF;
+	padding: 10px;
+	width: 27%;
+	margin-left:35%;
+}
+
+#barbabob { 
+	float: left;
+	margin-left: 15%;
+	margin-top: 2%;
+}
+
+#kak {
+	border-radius: 20px;
+	border: 6px solid white;
+	background-color: white;
+}
