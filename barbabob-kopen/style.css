@@ -1,0 +1,30 @@
+body { 
+	background-color: pink;
+}
+#barbabob { 
+
+	float: left;
+}
+
+#kak { 
+	width: 200%;
+	border-radius: 20px;
+	margin-top: 8%;
+	border: 6px solid white;
+	background-color: white;
+}
+#barbabob-purchase {
+	text-align: center;
+	width: 600px;
+	position: absolute;
+	top: 10%;
+	left: 40%;
+	font-size:60px;
+}
+#description-barbabob { 
+	text-align: center;
+	width: 400px;
+	position: absolute;
+	top: 25%;
+	left: 45%;
+	font-size: 20px;
